@@ -33,4 +33,4 @@ build/
 .vscode/
 
 # Local configuration
-backend/src/main/resources/application-local.properties
+application-local.properties
